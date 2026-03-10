@@ -1,0 +1,1 @@
+The SQL conversion rules display the automatic rewrite rules for DDL of automatically compatible type objects during the assessment process for source databases such as MySQL, Oracle, DM, PG, and DB2.

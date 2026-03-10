@@ -1,0 +1,1 @@
+SQL转换规则展示了MySQL、Oracle、DM、PG、DB2等源端数据库的DDL在评估过程中对自动兼容类型对象的DDL进行的自动改写规则。

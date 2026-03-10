@@ -1,0 +1,1 @@
+The data type mapping rules demonstrate the mapping of field data types from source databases such as MySQL, Oracle, DM, PG, and DB2 to YashanDB.

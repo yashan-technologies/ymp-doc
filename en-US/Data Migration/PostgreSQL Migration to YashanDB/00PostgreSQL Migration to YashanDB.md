@@ -1,0 +1,5 @@
+Database migration is a systematic project that requires adequate preparation and rigorous execution. Please read the operation instructions before migration to understand the YMP migration process and the relevant specifications and constraints. After migration, make full use of YashanDB's advantages to enhance your database performance and reliability. If you encounter questions that are not answered in the documentation during the migration process, please contact our technical support for assistance.
+
+For specifications related to supported database versions, database objects, and data types when migrating PostgreSQL databases to YashanDB via YMP, please refer to the [Product Specifications](../../Product Introduction/Specifications).
+
+The target endpoint for YashanDB can only be in the yashan mode.

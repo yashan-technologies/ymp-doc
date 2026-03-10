@@ -1,0 +1,1 @@
+The function mapping rules display the mapping rules from the MySQL, Oracle, and DM source database functions to the YashanDB database.

@@ -1,0 +1,3 @@
+In Oracle version 11.2.0.1, if the query for user information fails, it is necessary to grant privileges to the data source user using sys by executing: `exec dbms_metadata_util.load_stylesheets`.
+ 
+In MySQL, the authorization parameters yourUser and yourIp refer to the user information specified at the time of user creation. Refer to `CREATE USER 'newUser'@'IP' IDENTIFIED BY 'password'`, at this time yourUser=newUser, and IP=% or xx.xx.xx.xx.
